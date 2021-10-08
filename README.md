@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harindersinghthandi
 - 👀 I’m interested in full stack development and devops
 - 🌱 I’m currently learning html css react python django sql
-- 💞️ I’m looking to collaborate on a open source humanitarian ecological product traceability solution
+- 💞️ I’m looking to collaborate on an open source humanitarian ecological product traceability solution
 - 📫 How to reach me harindersingh.1977.uk@gmail.com
 
 <!---
